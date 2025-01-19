@@ -17,8 +17,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📫 How to reach me:
 - Email: danodoms@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://ph.linkedin.com/dominador-dano-jr-97b9001a0)
-- Portfolio: [Your Website/Portfolio](https://danodoms.vercel.app)
+- LinkedIn: [Dominador Dano Jr.](https://ph.linkedin.com/dominador-dano-jr-97b9001a0)
+- Portfolio: [danodoms](https://danodoms.vercel.app)
 
 ---
 
