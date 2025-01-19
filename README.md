@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 💻 **Tech Enthusiast**: Passionate about [Your Interests, e.g., web development, machine learning, mobile apps].
-- 🚀 **Projects**: I love building [describe your projects, e.g., scalable apps, AI models, etc.].
-- 🌱 **Learning**: Currently diving deeper into [specific topic, e.g., DevOps, TensorFlow, etc.].
+- 💻 **Tech Enthusiast**: Passionate about web/mobile development, and machine learning
+- 🚀 **Projects**: I love building mobile apps
+- 🌱 **Learning**: Currently diving deeper into mobile development and machine learning
 
 ---
 
@@ -15,16 +15,10 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-### 🏆 GitHub Trophies  
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=danodoms&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📫 How to reach me:
 - Email: danodoms@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Website/Portfolio](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://ph.linkedin.com/dominador-dano-jr-97b9001a0)
+- Portfolio: [Your Website/Portfolio](https://danodoms.vercel.app)
 
 ---
 
