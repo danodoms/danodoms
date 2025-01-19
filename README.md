@@ -1,18 +1,31 @@
-𝗱𝗮𝗻𝗼𝗱𝗼𝗺𝘀
+# Hi there! 👋 I'm danodoms
 
-<!--
-**danodoms/danodoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 💻 **Tech Enthusiast**: Passionate about [Your Interests, e.g., web development, machine learning, mobile apps].
+- 🚀 **Projects**: I love building [describe your projects, e.g., scalable apps, AI models, etc.].
+- 🌱 **Learning**: Currently diving deeper into [specific topic, e.g., DevOps, TensorFlow, etc.].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 📊 GitHub Stats  
 
+![danodoms's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danodoms&show_icons=true&hide=prs&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danodoms&layout=compact&theme=radical)  
+
+---
+
+### 🏆 GitHub Trophies  
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=danodoms&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 How to reach me:
+- Email: danodoms@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Portfolio: [Your Website/Portfolio](https://yourwebsite.com)
+
+---
+
+⭐️ Check out my repositories below and feel free to connect with me!
