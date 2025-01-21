@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 - 💻 **Tech Enthusiast**: Passionate about web/mobile development, and machine learning
-- 🚀 **Projects**: I love building mobile apps
+- 🚀 **Projects**: I love building web and mobile apps
 - 🌱 **Learning**: Currently diving deeper into mobile development and machine learning
 
 ---
@@ -17,9 +17,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📫 How to reach me:
 - Email: danodoms@gmail.com
-- LinkedIn: [Dominador Dano Jr.](https://ph.linkedin.com/dominador-dano-jr-97b9001a0)
+- LinkedIn: [Dominador Dano Jr.](https://www.linkedin.com/in/dominador-dano-jr-97b9001a0/)
 - Portfolio: [danodoms](https://danodoms.vercel.app)
 
 ---
 
-⭐️ Check out my repositories below and feel free to connect with me!
+⭐️ Check out my repositories below and feel free to connect!
