@@ -1,11 +1,7 @@
 # Hi there! 👋 I'm danodoms
 
-### 📊 GitHub Stats  
-
 ![danodoms's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danodoms&show_icons=true&hide=prs&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danodoms&layout=compact&theme=radical)  
-
----
 
 ### 📫 How to reach me:
 - Email: danodoms@gmail.com
