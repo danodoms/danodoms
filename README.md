@@ -11,7 +11,3 @@
 - Email: danodoms@gmail.com
 - LinkedIn: [Dominador Dano Jr.](https://www.linkedin.com/in/dominador-dano-jr-97b9001a0/)
 - Portfolio: [danodoms](https://danodoms.vercel.app)
-
----
-
-⭐️ Check out my repositories below and feel free to connect!
